@@ -1,7 +1,6 @@
 # Five-Year Financial Forecasting | Excel Financial Modelling
 
 [![Excel](https://img.shields.io/badge/Model-Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)](Financial_Model.xlsx)
-[![Forage](https://img.shields.io/badge/Simulation-Forage_Academy-003366?style=flat)](https://www.theforage.com/simulations/forage/sponsored-content-excel-skills-for-busi-xue7)
 [![Certificate](https://img.shields.io/badge/Certificate-Verified_100%25-10b981?style=flat)](https://www.theforage.com/completion-certificates/HgpPSsyQpzob6HEh9/B5e3zaZCcEZNv8YCg_HgpPSsyQpzob6HEh9_6a61e6fdc75bcdab6ef5c512_1793714783563_completion_certificate.pdf)
 [![Status](https://img.shields.io/badge/Status-Completed_(4%2F4_Tasks)-10b981?style=flat)](#task-breakdown--completion)
 
@@ -12,7 +11,7 @@
 ## 1. Programme Information & Verification
 
 - **Programme**: Excel Skills for Business Finance Job Simulation
-- **Provider**: [Forage](https://www.theforage.com/simulations/forage/sponsored-content-excel-skills-for-busi-xue7)
+- **Provider**: [Forage]
 - **Participant**: Alwin Meniens
 - **Completion Date**: 3 November 2026
 - **Status**: **Successfully Completed (100%)**
