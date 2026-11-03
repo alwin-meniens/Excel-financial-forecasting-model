@@ -4,7 +4,7 @@
 [![Certificate](https://img.shields.io/badge/Certificate-Verified_100%25-10b981?style=flat)](https://www.theforage.com/completion-certificates/HgpPSsyQpzob6HEh9/B5e3zaZCcEZNv8YCg_HgpPSsyQpzob6HEh9_6a61e6fdc75bcdab6ef5c512_1793714783563_completion_certificate.pdf)
 [![Status](https://img.shields.io/badge/Status-Completed_(4%2F4_Tasks)-10b981?style=flat)](#task-breakdown--completion)
 
-> **Programme Verification**: Completed the practical **Excel Skills for Business Finance Job Simulation** offered by **Forage**. Completed on **3 November 2026** by **Alwin Meniens**. This repository documents the practical five-year dynamic financial forecast, debt amortization waterfall, cash flow schedule, and executive presentation dashboard.
+> **Programme Verification**: Completed the practical **Excel Skills for Business Finance Job Simulation** offered by **Forage**. Completed on **3 November 2026** by **Alwin Meniens**. 
 
 ---
 
